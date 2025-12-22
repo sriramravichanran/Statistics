@@ -4,7 +4,7 @@ This repository contains a **Statistics Case Study project** focused on **descri
 
 The project demonstrates how basic statistical measures can be used to summarize and analyze a dataset effectively.
 
----
+---  
 
 ## 📌 Project Overview
 
