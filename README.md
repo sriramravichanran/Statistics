@@ -14,7 +14,7 @@ The analysis includes measures of central tendency, dispersion, and data range.
 
 ---
 
-## 📈 Statistical Measures Covered
+## 📈 Statistical Measures Covered 
 
 * Mean
 * Median
