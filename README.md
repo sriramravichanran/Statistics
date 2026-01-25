@@ -18,7 +18,7 @@ The analysis includes measures of central tendency, dispersion, and data range.
  
 * Mean
 * Median
-* Mode 
+* Mode  
 * Standard Deviation
 * Minimum Value
 * Maximum Value
