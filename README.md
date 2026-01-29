@@ -11,7 +11,7 @@ The project demonstrates how basic statistical measures can be used to summarize
 In this case study, descriptive statistical techniques are applied to analyze the dataset and extract meaningful insights.
  
 The analysis includes measures of central tendency, dispersion, and data range.
-   
+     
 ---  
  
 ## 📈 Statistical Measures Covered  
