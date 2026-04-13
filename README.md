@@ -6,7 +6,7 @@ The project demonstrates how basic statistical measures can be used to summarize
 
 ---  
  
-## 📌 Project Overview
+## 📌 Project Overview 
 
 In this case study, descriptive statistical techniques are applied to analyze the dataset and extract meaningful insights.
  
